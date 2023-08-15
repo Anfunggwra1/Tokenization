@@ -1,6 +1,6 @@
 Tokenization
 =============
-### Introduction:
+### Description:
 Bodo Tokenizer is a free tokenizing tool for bodo language which takes input as a stream of characters, breaks it up into individual tokens (usually individual words), and outputs a stream of tokens. In this repository the tokenization process is implemented in a file named as "bod.csv" and output tokenized file is created as "tok.txt". 
 Here the input can be a single bodo setence or a file with a list of bodo sentence. I have used the a csv file.
 ### Installation:
